@@ -6,3 +6,15 @@
 ### Ejercicio 1 (Scanner): 
 Realizar un programa que utilice métodos para **cargar**  e **imprimir** información sobre una persona: Apellido (String), edad (int), altura (double) y cédula (long). 
 Investigue en la API de Java u otro sitio web acerca de los métodos de la clase Scanner.
+
+
+
+### COMENTARIOS
+
+-¿Porqué metiste adentro de cargar la función imprimir?
+
+Cada función hace una tarea específica, si carga, carga no imprime, imprimir es otra función
+
+-y otro lado se te fue la mano con dividir cargar, pero bueno con practica vas a ir mejorando la división de tareas
+
+#CUANDO REALICEN EJERCICIOS CON OTROS COMPAÑEROS ME AVISAN, ASÍ NO CORRIJO DOS VECES LA MISMA COSA
